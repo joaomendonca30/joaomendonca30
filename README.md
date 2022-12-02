@@ -1,10 +1,10 @@
 ## Olá! Eu sou o João Mendonça, Desenvolvedor Back-End Java Júnior!
-<img align="right" height="550em" src="https://raw.githubusercontent.com/gist/joaomendonca30/821bc41a9fdc60203f21c1c975aafc6c/raw/38de0edd58d167a61a9f5bc64606792137ca4a87/githubcard.svg"/>
+<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/joaomendonca30/821bc41a9fdc60203f21c1c975aafc6c/raw/38de0edd58d167a61a9f5bc64606792137ca4a87/githubcard.svg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaomendonca30&color=blue" alt="Profile views" /> </p>
 <div align="center">
   <a href="https://github.com/joaomendonca30">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomendonca30&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomendonca30&layout=compact&langs_count=7&theme=github_dark"/>
+   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomendonca30&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 <div style="display: inline_block"><br>
